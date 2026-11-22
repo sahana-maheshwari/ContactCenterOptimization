@@ -24,7 +24,7 @@ Contact centers live on a trade-off: too few agents and wait times blow up; too 
 
 ## Deliverables
 
-- [`A1 Contact Center Management Report.docx`](A1%20Contact%20Center%20Management%20Report.docx) — the full report (~4,159 words): forecasting, statistical analysis, and staffing strategy.
+- [`contact_center_optimization_report.docx`](contact_center_optimization_report.docx) — the full report (~4,159 words): forecasting, statistical analysis, and staffing strategy.
 
 ## Stack
 
