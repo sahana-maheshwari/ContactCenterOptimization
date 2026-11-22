@@ -19,8 +19,11 @@ Contact centers live on a trade-off: too few agents and wait times blow up; too 
 
 ## Results
 
+![Bar chart showing staffing moving from a pre-analysis range of 40 to 60 agents, which caused delays, to a recommended optimal range of 89 to 111 agents per quarter](staffing_analysis.png)
+
 - Forecast vs. actual reconciled across all four quarters: **Q1 was the lowest-volume quarter (under ~3,100 calls)** and **Q4 the highest (~4,000)**, with forecasts and actuals aligning most closely toward year-end.
 - Exponential smoothing tracked the real peaks and drops (with a few days' lag); the moving-average forecast smoothed them out and misaligned each quarter.
+- Staffing at 40–60 agents caused delays; the model's recommended range of 89–111 agents per quarter nearly doubles coverage to meet demand.
 
 ## Deliverables
 
